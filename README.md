@@ -78,7 +78,6 @@ You should know and be comfortable with **all of the following:**
     -   Conditional Rendering
     -   Rendering Lists
     -   Pure Components
-    -   Basics of JSX: React's Markup
     -   How to split larger components into smaller ones
 -   **Adding Interactivity**
 
